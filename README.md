@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <b>Data Scientist & Full-Stack Engineer</b> specializing in deploying production-grade Machine Learning systems, statistical drift monitoring, and high-concurrency modern web applications.
+  <b> Data Scientist & Full-Stack Engineer</b> specializing in deploying production-grade Machine Learning systems, statistical drift monitoring, and high-concurrency modern web applications.
 </p>
 
 <p align="center">
