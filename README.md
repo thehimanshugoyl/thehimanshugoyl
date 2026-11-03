@@ -3,11 +3,11 @@
 # Hi there, I'm Himanshu Goyal 👋
 
 <a href="https://github.com/thehimanshugoyl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Data+Scientist+%7C+MLOps+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Pipelines+%26+Scalable+Cloud+Systems" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+MLOps+Engineer;Full-Stack+Web+Developer;Building+Production+AI+Systems" alt="Typing Header" />
 </a>
 
 <p align="center">
-  <b> Data Scientist & Full-Stack Engineer</b> specializing in deploying production-grade Machine Learning systems, statistical drift monitoring, and high-concurrency modern web applications.
+  <b>Data Scientist & Full-Stack Engineer</b> specializing in deploying production-grade Machine Learning systems, statistical drift monitoring, and high-concurrency modern web applications.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-goyal-231816336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:himanshugoya786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:goyalhimanshu1326@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/thehimanshugoyl?tab=repositories"><img src="https://img.shields.io/badge/Repositories-40+-1081C1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=thehimanshugoyl&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -110,7 +110,7 @@ I am actively seeking **internship and entry-level full-time opportunities** in 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-goyal-231816336/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshugoya786@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalhimanshu1326@gmail.com)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thehimanshugoyl)
 
